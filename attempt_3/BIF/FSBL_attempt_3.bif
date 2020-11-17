@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/home/shrishail_t/xilinx_workspace/attemp_3/attemp_3.sdk/FSBL_attempt_3/Release/FSBL_attempt_3.elf
+	/home/shrishail_t/Desktop/zedboard/attempt_3/bitstream/design_1_wrapper.bit
+	/home/shrishail_t/Desktop/zedboard/attempt_3/uboot/u-boot.elf
+}
